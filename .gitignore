@@ -1,2 +1,6 @@
 pitch-build/
 pitch-output/
+/.wealth-intelligence-dashboard.git-backup/
+/.pnpm-store/
+/.codex-finalizer/
+.DS_Store
